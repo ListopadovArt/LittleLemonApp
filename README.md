@@ -3,3 +3,14 @@ This is the final project for the Capstone iOS application included in the Meta 
 
 
 <img src="https://github.com/ListopadovArt/LittleLemonApp/blob/main/Documentation/Demo.gif?raw=true">
+
+
+
+The proposed frame design was used:
+
+<tr>
+
+<td><img src="Documentation/Canvas_wireframe.png" width=270 height=480></td>
+<td><img src="Documentation/wireframe.png" width=270 height=480></td>
+
+</tr>
