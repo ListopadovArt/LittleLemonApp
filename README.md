@@ -11,6 +11,6 @@ The proposed frame design was used:
 <tr>
 
 <td><img src="Documentation/Canvas_wireframe.png" width=460 height=280></td>
-<td><img src="Documentation/wireframe.png" width=480 height=480></td>
+<td><img src="Documentation/wireframe.png" width=460 height=460></td>
 
 </tr>
